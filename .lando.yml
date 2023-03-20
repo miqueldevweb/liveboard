@@ -24,6 +24,9 @@ services:
     hosts:
       - database
 
+  database:
+    portforward: 3306
+
   mailing:
     type: mailhog
     portforward: true

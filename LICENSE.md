@@ -1,3 +1,7 @@
+![carolina-del-norte.png](/mdResources/carolina-del-norte.png)
+![creative-commons.png](/mdResources/creative-commons.png)
+![por.png](/mdResources/por.png)
+
 ## Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)
 Esto es un resúmen y no sustituye la [licencia](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 ### Usted es libre de:
